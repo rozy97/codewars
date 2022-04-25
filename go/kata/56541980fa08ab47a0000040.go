@@ -2,6 +2,7 @@ package kata
 
 import "fmt"
 
+// kyu 7
 func PrinterError(s string) string {
 	var totalErr uint64
 	for _, v := range s {
