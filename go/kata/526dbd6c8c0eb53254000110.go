@@ -1,5 +1,6 @@
 package kata
 
+// kyu 5
 func alphanumeric(str string) (result bool) {
 	if len(str) == 0 {
 		return
